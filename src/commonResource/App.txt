@@ -1,0 +1,3 @@
+AIzaSyAJZG1PvhhlU435lhZGEvI4jDdabvJnZoY API key
+https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=${APPLE_CHANNEL_ID}&maxResults=8&order=date&key=${YT_API_KEY}
+AIzaSyAJZG1PvhhlU435lhZGEvI4jDdabvJnZoY
